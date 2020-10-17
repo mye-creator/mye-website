@@ -33,7 +33,7 @@
 
 ## Code
 Want to clone into this repo? No problem!
-Open your **Git** terminal and type:
+Open your **[Git](https://git-scm.com/)** terminal and type:
 ``` console
 git clone https://github.com/mye-creator/mye-website/
 ```
