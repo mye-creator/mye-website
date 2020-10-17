@@ -4,4 +4,15 @@
 [![Commits](https://img.shields.io/github/commit-activity/m/mye-creator/mye-website?style=for-the-badge)](https://img.shields.io/github/commit-activity/m/mye-creator/mye-website?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/mye-creator/mye-website?style=for-the-badge)
 ![Watchers](https://img.shields.io/github/watchers/mye-creator/mye-website?color=32CD32&style=for-the-badge)
-[![Naruto Bot Support Server](https://img.shields.io/discord/743324121714131056?label=Naruto%20Bot%20Support%20Server&style=for-the-badge)](https://discord.gg/ptEeeAW) 
+[![Naruto Bot Support Server](https://img.shields.io/discord/743324121714131056?label=Naruto%20Bot%20Support%20Server&style=for-the-badge)](https://discord.gg/ptEeeAW)
+
+---
+
+# Stats
+
+<a href="Mye github stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mye-creator&show_icons=true&theme=radical" />
+</a>
+<a href="Top Languages">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mye-creator&layout=compact&theme=radical" />
+</a>
