@@ -31,6 +31,26 @@
 
 ---
 
+## Code
+Want to clone into this repo? No problem!
+Open your **Git** terminal and type:
+```
+console
+git clone https://github.com/mye-creator/mye-website/
+```
+If you don't have pc, and still want to clone into it? Download **Termux** app and install git package by this code:
+```
+console
+pkg install git
+```
+And when installation will be done, type:
+```
+console
+git clone https://github.com/mye-creator/mye-website/
+```
+
+---
+
 # Stats
 **Mye GitHub Stats**
 <br />
