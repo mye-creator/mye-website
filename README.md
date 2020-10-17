@@ -37,7 +37,7 @@ Open your **Git** terminal and type:
 ``` console
 git clone https://github.com/mye-creator/mye-website/
 ```
-If you don't have pc, and still want to clone into it? Download **Termux** app and install git package by this code:
+If you don't have pc, and still want to clone into it? Download **[Termux](https://termux.com/)** app and install git package by this code:
 ``` console
 pkg install git
 ```
