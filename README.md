@@ -11,9 +11,15 @@
 ## What is this?
 This is my personal website where I can share information with you! ❤
 ## Who are you?
-Daniel E. S. If shortly, Mye
+Daniel E. S. If shortly, Mye. I am the creator of Naruto Bot, if you are interested, click on my badge support server under this text and you will get redirected to the server! ☀️
 ## Why am I here?
 You are here because of my magic 🔮
+
+---
+
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="HTML" width="26px" src="https://cdn.discordapp.com/attachments/415496000761757696/766935076163944488/600px-HTML5_Badge.svg.png" />][html]
+[<img align="left" alt="CSS" width="26px" src="https://cdn.discordapp.com/attachments/415496000761757696/766939536731144202/1602922506905.png" />][css]
 
 ---
 
