@@ -8,6 +8,15 @@
 
 ---
 
+## What is this?
+This is my personal website where I can share information with you! ❤
+## Who are you?
+Daniel E. S. If shortly, Mye
+## Why am I here?
+You are here because of my magic 🔮
+
+---
+
 # Stats
 
 <a href="Mye github stats">
