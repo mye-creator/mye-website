@@ -8,6 +8,8 @@
 
 ---
 
+<img src="https://media1.tenor.com/images/64fb382fc8a19a07774c007d93239d1d/tenor.gif?itemid=13037128" />
+
 ## What is this?
 This is my personal website where I can share information with you! ❤
 ## Who are you?
