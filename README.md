@@ -23,9 +23,6 @@ You are here because of my magic 🔮
 [<img align="left" alt="HTML" width="26px" src="https://cdn.discordapp.com/attachments/415496000761757696/766935076163944488/600px-HTML5_Badge.svg.png"/>]
 [<img align="left" alt="CSS" width="26px" src="https://cdn.discordapp.com/attachments/415496000761757696/766940683809718282/1602923356796.png"/>]
 
-<br />
-<br />
-
 ---
 
 # Stats
