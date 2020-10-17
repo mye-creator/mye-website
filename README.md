@@ -11,11 +11,11 @@
 <img src="https://media1.tenor.com/images/64fb382fc8a19a07774c007d93239d1d/tenor.gif?itemid=13037128" />
 
 ## What is this?
-This is my personal website where I can share information with you! ❤
+• ❤ This is my personal website where I can share information with you!
 ## Who are you?
-Daniel E. S. If shortly, Mye. I am the creator of Naruto Bot, if you are interested, click on my badge support server under this text and you will get redirected to the server! ☀️
+• 🖐 Daniel E. S. If shortly, Mye. I am the creator of Naruto Bot, if you are interested, click on my badge support server under this text and you will get redirected to the server!
 ## Why am I here?
-You are here because of my magic 🔮
+• 🔮 You are here because of my magic
 
 ---
 
