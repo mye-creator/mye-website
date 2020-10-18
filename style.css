@@ -17,7 +17,7 @@ body {
   border-radius: 100%;
   box-shadow: 0 1px 1rem var(--black);
   position: sticky;
-  filter: saturate(2);
+  filter: saturate(1);
 }
 .text {
   font-family: Apple Chansery, cursive;
