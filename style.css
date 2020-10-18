@@ -18,3 +18,11 @@ body {
   box-shadow: 0 1px 1rem var(--black);
   position: sticky;
 }
+.text {
+  font-family: didot;
+  color: white;
+  position: absolute;
+  top: 40px;
+  text-align: center;
+  font-size: 50px;
+}
