@@ -10,6 +10,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
+  filter: saturate(2);
 }
 .image-header {
   text-align: center;
