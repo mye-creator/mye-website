@@ -1,7 +1,5 @@
 body {
   text-align: center;
   margin: 0;
-  width: 2048;
-  height: 1135;
-  size: 200%;
+  max-width: 100%;
 }
