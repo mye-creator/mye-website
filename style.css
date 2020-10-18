@@ -1,8 +1,5 @@
 body {
   text-align: center;
   margin: 0;
-}
-img {
-  margin: 0;
-  text-align: center;
+  resize: 20%;
 }
