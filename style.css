@@ -10,7 +10,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-  filter: sarelative(1.3);
+  filter: sarelative(1.3), blur(2px);
 }
 .image-header {
   text-align: center;
