@@ -1,4 +1,10 @@
 body {
   text-align: center;
   margin: 0;
+  background-image: url(img/background.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #00a6ff;
 }
