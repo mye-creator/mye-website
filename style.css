@@ -1,5 +1,14 @@
 body {
   text-align: center;
   margin: 0;
-  background-image: url("background-image.jpg"), url("mye.jpg");
+  font-family: Arial, Helvetica, sans-serif;
+}
+.hero-image {
+  background-image: url("background.jpg");
+  background-color: #cccccc;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
 }
