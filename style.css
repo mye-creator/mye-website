@@ -14,5 +14,6 @@ body {
 }
 .image-header {
   text-align: center;
-  box-shadow: none|h-offset v-offset blur spread color |inset|initial|inherit;
+  border-radius: 100%;
+  box-shadow: 0 1px 1rem var(--black);
 }
