@@ -15,7 +15,7 @@ body {
 .image-header {
   text-align: center;
   border-radius: 100%;
-  box-shadow: 0 1px 1rem var(--black);
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
   position: sticky;
   filter: saturate(1.3);
 }
