@@ -1,6 +1,5 @@
 body {
   text-align: center;
   margin: 0;
-  width: 100px;
-  height: 70px;
+  background-image: url("background-image.jpg"), url("mye.jpg");
 }
