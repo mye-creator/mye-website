@@ -16,4 +16,5 @@ body {
   text-align: center;
   border-radius: 100%;
   box-shadow: 0 1px 1rem var(--black);
+  width: 20px;
 }
