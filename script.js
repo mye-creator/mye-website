@@ -31,5 +31,13 @@ body {
   top: 155px;
 }
 </style>
-
+<div class="header-1">
+ <div class="image-header">
+    <br>
+   <img src="img/mye.png" width="200px">
+ </div>
+</div>
+<div class="text">
+ <h3>Myemilia</h3>
+</div>
 }
