@@ -23,8 +23,6 @@ body {
   font-family: Apple Chansery, cursive;
   color: #FFF7ED;
   position: absolute;
-  text-align: center;
+  text-align: middle;
   font-size: 45px;
-  right: 200px;
-  top: 155px;
 }
