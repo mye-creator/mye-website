@@ -24,6 +24,7 @@ body {
   font-family: Apple Chansery, cursive;
   color: #FFF7ED;
   position: absolute;
+  width: 100%;
   text-align: center;
   display: inline;
   font-size: 45px;
