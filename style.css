@@ -18,13 +18,13 @@ body {
   border-radius: 100%;
   box-shadow: 10px;
   position: sticky;
+  width: 100%;
   filter: saturate(1.3);
 }
 .text {
   font-family: Apple Chansery, cursive;
   color: #FFF7ED;
   position: absolute;
-  width: 100%;
   text-align: center;
   display: inline;
   font-size: 45px;
