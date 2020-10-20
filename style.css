@@ -41,6 +41,8 @@ body {
   -webkit-text-fill-color: transparent; 
   -moz-background-clip: text;
   -moz-text-fill-color: transparent;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #FF93DA;
 }
 .topnav {
   overflow: hidden;
