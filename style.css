@@ -44,6 +44,7 @@ body {
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: #FF93DA;
 }
+/* Navigation bar */
 .topnav {
   background-color: #333;
   overflow: hidden;
