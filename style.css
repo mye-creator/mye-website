@@ -21,7 +21,7 @@ body {
   width: 100%;
   filter: saturate(1.3);
 }
-h3 {
+.headertext {
   font-family: Apple Chansery, cursive;
   color: #FFFFFF;
   position: absolute;
