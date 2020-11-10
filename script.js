@@ -1,1 +1,3 @@
-window.location.href="about.html";
+function pageRedirect() {
+      window.location.href = "about.html";
+    }      
