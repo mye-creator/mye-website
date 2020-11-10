@@ -1,3 +1,1 @@
-function myFunction(x) {
-  x.classList.toggle("change");
-}
+window.location.href = "about.html"; 
