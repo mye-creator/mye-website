@@ -1,1 +1,2 @@
-window.location.href = "about.html"; 
+history.pushState()
+     history.replaceState()
