@@ -9,7 +9,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  position: relative
+  position: sticky; top: 0;
   width: 100%;
   filter: sarelative(1.3), blur(2px);
 }
