@@ -85,3 +85,6 @@ body {
 	position: relative;
 	top: 1px;
 }
+.projects {
+  display: grid;
+}
