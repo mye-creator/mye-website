@@ -88,6 +88,7 @@ body {
 .projects {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  align-items: center;
 }
 .project {
   display: flex;
