@@ -86,5 +86,5 @@ body {
 	top: 1px;
 }
 .projects {
-  display: grid;
+  display: grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
 }
