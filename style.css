@@ -91,6 +91,6 @@ body {
   align-items: center;
 }
 .project {
-  display: flex;
+  display: inline-flex;
   flex-direction: column;
 }
