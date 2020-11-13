@@ -92,5 +92,5 @@ body {
 }
 .project {
   display: inline-flex;
-  flex-direction: column;
+  flex-direction: row;
 }
