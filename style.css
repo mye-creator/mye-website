@@ -92,5 +92,5 @@ body {
 }
 .project {
   display: inline-flex;
-  flex-direction: wrap;
+  flex-wrap: wrap;
 }
