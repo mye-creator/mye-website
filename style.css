@@ -114,6 +114,8 @@ input[type=submit] {
   border: none;
   border-radius: 4px;
   cursor: pointer;
+  width: 100%;
+  font-weight: bold;
 }
 
 /* When moving the mouse over the submit button, add a black color */
