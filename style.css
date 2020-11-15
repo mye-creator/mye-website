@@ -108,8 +108,8 @@ input[type=text], select, textarea {
 
 /* Style button */
 input[type=submit] {
-  background-color: white;
-  color: black;
+  background-color: #ffc9c1
+  color: white;
   padding: 12px 20px;
   border: none;
   border-radius: 4px;
@@ -118,9 +118,9 @@ input[type=submit] {
   font-weight: bold;
 }
 
-/* When moving the mouse over the submit button, add a black color */
+/* When moving the mouse over the submit button, add a darker pink color */
 input[type=submit]:hover {
-  background-color: #000;
+  background-color: #a98580
   color: white;
 }
 
