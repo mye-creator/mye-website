@@ -108,7 +108,7 @@ input[type=text], select, textarea {
 
 /* Style button */
 input[type=submit] {
-  background-color: #ffc9c1
+  background-color: #ffc9c1;
   color: white;
   padding: 12px 20px;
   border: none;
