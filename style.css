@@ -84,7 +84,7 @@ body {
 	position: relative;
 	top: 1px;
 }
-#projects {
+.projects {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   align-items: center;
@@ -92,7 +92,7 @@ body {
   flex-direction: column;
   justify-content: center;
 }
-#project {
+.project {
   display: inline-flex;
   flex-wrap: wrap;
 }
