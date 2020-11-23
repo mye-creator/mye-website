@@ -125,7 +125,7 @@ input[type=submit] {
 
 /* When moving the mouse over the submit button, add a darker pink color */
 input[type=submit]:hover {
-  background-color: #a98580
+  background-color: #a98580;
   color: white;
 }
 
